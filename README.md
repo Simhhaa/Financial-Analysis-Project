@@ -45,10 +45,6 @@ Other numbers: average MoM growth is 6.41% for Total Income and 7.98% for Total 
 - Open in **Microsoft Excel**. The Forecast data tables and some Dashboard charts need Excel to recalculate or display correctly.
 - Do **not** re-save the file with Python (openpyxl) or other tools. Dashboard charts and one Excel-only chart would be damaged or lost.
 
-## Known issues (see change list in the reply)
-1. Raw Data subtotals do not match their own line items (May, Jun, Jul). Cleaned Data fixes this for P&L.
-2. Total Comprehensive Income and the Cash Flow PBT still pull the uncorrected raw figures.
-3. A few narrative statements do not match the numbers.
 ## 🧠 Author
 
 #### Charapalli Simhotham Naidu
